@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title:  "First post!"
 ---
 
 # This is a first post. Just for a test purpose.
