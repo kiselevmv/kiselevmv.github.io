@@ -1,4 +1,9 @@
-This is a first post. Just for a test purpose.
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# This is a first post. Just for a test purpose.
 
 # Header
 
