@@ -14,9 +14,3 @@ markdown: kramdown
 paginate: 10          # Posts per page on the blog index
 encoding: UTF-8       # Avoid "incompatible character encodings"
 
-# Twitter
-twitter_user: @sefard
-twitter_tweet_button: true
-
-# Facebook Like
-facebook_like: true
