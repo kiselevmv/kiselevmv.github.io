@@ -6,11 +6,12 @@ theme: jekyll-theme-minimal
 title: Блог инженера
 email: mihail.kiselev@gmail.com
 author: Mikhail Kiselev
-description: Блог инженера, но не только об инжинерии. Я работаю инженером охраны труда, окружающей среды и промышленной безопасности. А увлекаюсь программированием.
+description: Блог о минимализме, инжинерии и программировании.
 twitter_username: sefard
 subscribe_rss: /atom.xml
+kramdown:
+  math_engine: mathjax
 plugins:
   - jekyll-feed
-markdown: kramdown
 paginate: 10          # Posts per page on the blog index
 
