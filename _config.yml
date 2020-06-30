@@ -2,15 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://kiselevmv.github.io
-title: Блог инженера
-author: Mikhail Kiselev
-simple_search: https://google.com/search
-description:
 theme: jekyll-theme-minimal
+title: Блог инженера
+email: mihail.kiselev@gmail.com
+author: Mikhail Kiselev
+description: Блог инженера, но не только об инжинерии. Я работаю инженером охраны труда, окружающей среды и промышленной безопасности. А увлекаюсь программированием.
+twitter_username: sefard
 subscribe_rss: /atom.xml
-plugins: plugins
+plugins:
+  - jekyll-feed
 markdown: kramdown
 paginate: 10          # Posts per page on the blog index
-encoding: UTF-8       # Avoid "incompatible character encodings"
 
