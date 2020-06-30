@@ -2,7 +2,6 @@
 title:  "Что стоит знать инженеру про условные проходы и давления"
 date: 2013-11-05 02:30:00 -0000
 categories: engineering piping
-layout: page
 ---
 
 
