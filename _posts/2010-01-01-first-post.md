@@ -14,3 +14,7 @@ title:  "First post!"
 > cite my
 
 Fin
+
+Math $ 5 \times 5 $
+
+$$ 5 + 5 $$
