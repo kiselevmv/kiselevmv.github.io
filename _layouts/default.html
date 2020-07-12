@@ -4,6 +4,9 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			{% if page.tags contains "MathJax" %}
+			{%- include mathjax-head.html -%}
+			{% endif %}
 		</head>
 		<body>
 			<nav>
