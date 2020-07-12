@@ -15,3 +15,6 @@ tags: lifehack
 - [About GitHub Pages and Jekyll](https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll). Это базовое руководство. Там не описаны многие вещи, но начинать стоит с него.
 - [GitHub Pages](https://lab.github.com/githubtraining/github-pages). Это бесплатный вводный курс на Github Learning lab. Мне следовало бы начинать с него. Нашёл этот курс когда уже разобрался с базовыми вопросами.
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/). Классное, пошаговое, понятное руководство как создать сайт с блогом на Github Pages. Разумеется, нужно знание html, Markdown разметки. Но без этого вообще не стоит браться за сайт.
+- [GitHub Pages](https://jekyllrb.com/docs/github-pages/). Пособие по GitHub Pages на сайте Jekyll. Отлично полняет [базовое руководство](https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll).
+
+По большому счёту, этих четырёх сайтов достаточно, чтобы начать свой сайт на GitHub Pages.
