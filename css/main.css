@@ -3,8 +3,8 @@ body {
     width: 70%;
 }
 
-p {
-    font: 14pt/12pt sans-serif; 
+.container {
+    font: 12pt 'Sans-Serif'; 
 }
 
 nav ul, footer ul {
