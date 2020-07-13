@@ -8,7 +8,7 @@ categories: hosting blogging
 
 За перевод разметки Markdown в html страницы, отображаемые броузером, отвечает движок kramdown. [Раздел](https://kramdown.gettalong.org/math_engine/mathjax.html) посвящённый движку MathJax на сайте с документацией kramdown поясняет, что MathJax поддерживается, но сам движок не подключает библиотеки MathJax, за это отвечает пользователь. Уже что-то, осталось как-то подключить библиотеки. Это тоже оказалось непростым.
 
-Как я понимаю, на GitHub Pages можно использовать несколько тем оформления. С этим ещё предстоит разобраться. В шаблоне для [заголовка страницы](https://github.com/jekyll/minima/blob/master/_includes/head.html) темы оформления находится символическая ссылка `{\%- include custom-head.html -%\}`. Т.е. если разместить в каталоге `_inklides` файл `custom-head.html` с кодом для включения MathJax всё должно заработать. Разместил в `_includes` файл `custom-head.html` с содержимым для включения MathJax
+Как я понимаю, на GitHub Pages можно использовать несколько тем оформления. С этим ещё предстоит разобраться. В шаблоне для [заголовка страницы](https://github.com/jekyll/minima/blob/master/_includes/head.html) темы оформления находится символическая ссылка `{\%- include custom-head.html -%\}`. Т.е. если разместить в каталоге `_inclides` файл `custom-head.html` с кодом для включения MathJax всё должно заработать. Разместил в `_includes` файл `custom-head.html` с содержимым для включения MathJax
 
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -26,3 +26,5 @@ P.P.S. Решил проблему не вполне изящно, но рабо
 	{\% endif %\}
 	
 То есть, в любую страницу, где есть тег `MathJax` в `<head>` подключаются скрипты MathJax. Тег получился чисто служебный, но не лишний. Позволяет просмотреть по тегу все страницы, где есть формулы.
+
+Обратите внимание, обратная косая черта между фигурной скобкой и знаком процентов - лишняя. Просто я ещё не нашёл способа заэкранировать операцию `include`, чтобе Jekyll её не попытался выполнить.
