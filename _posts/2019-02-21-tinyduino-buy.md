@@ -1,7 +1,6 @@
 ﻿---
 title:  "Где покупать Tinyduino наборы"
 date: 2019-02-21 16:36:00 -0000
-categories: DIY Arduino
 tags: DIY Arduino
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Зачем на чертежах указывается площадь застройки?"
 date: 2014-10-06 14:12:00 -0000
-categories: engineering
 tags: engineering
 ---
 

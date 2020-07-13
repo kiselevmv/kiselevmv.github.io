@@ -1,7 +1,6 @@
 ---
 title:  "Роутер для командировок"
 date: 2014-04-08 17:48:00 -0000
-categories: engineering hardware
 tags: hardware
 ---
 

@@ -1,7 +1,6 @@
 ﻿---
 title:  "Почему не нужен Micropython?"
 date: 2019-07-16 09:13:00 -0000
-categories: Ardu environment
 tags: waste environment
 ---
 

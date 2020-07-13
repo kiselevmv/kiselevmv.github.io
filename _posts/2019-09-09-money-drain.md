@@ -1,7 +1,6 @@
 ---
 title: "Что такое \"слив депозита\"?"
 date: 2019-09-09 09:06:00 -0000
-categories: finance
 tags: finance
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Путеводители по Нью-Йорку"
 date: 2016-10-29 10:21:00 -0000
-categories: survey
 tags: survey engineering
 ---
 

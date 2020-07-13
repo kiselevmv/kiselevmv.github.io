@@ -1,7 +1,6 @@
 ﻿---
 title: "Эмулятор ZX Spectrum на Pocket C.H.I.P."
 date: 2016-12-02 10:32:00 -0000
-categories: Speccy emulation
 tags: Speccy emulation
 ---
 

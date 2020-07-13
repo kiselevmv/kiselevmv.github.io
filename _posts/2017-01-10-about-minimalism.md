@@ -1,7 +1,6 @@
 ---
 title: "О минимализме"
 date: 2017-01-10 12:29:00 -0000
-categories: minimalism
 tags: minimalism
 ---
 

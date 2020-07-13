@@ -1,7 +1,6 @@
 ---
 title: "Сравнение программ для управления делами"
 date: 2018-10-02 17:12:00 -0000
-categories: lifehack software
 tags: lifehack software
 ---
 

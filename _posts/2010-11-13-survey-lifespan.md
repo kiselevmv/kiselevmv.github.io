@@ -1,7 +1,6 @@
 ---
 title: "О сроке действия инженерных изысканий"
 date: 2010-11-13 17:17:00 -0000
-categories: survey
 tags: survey engineering
 ---
 

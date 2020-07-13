@@ -1,7 +1,6 @@
 ---
 title:  "Коэффициент запаса"
 date: 2010-10-18 14:23:00 -0000
-categories: engineering
 tags: engineering
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Когда нужно получать санитарно-эпидемиологические заключения?"
 date: 2019-08-20 17:20:00 -0000
-categories: hygiene legislation
 tags: higiene legislation
 ---
 

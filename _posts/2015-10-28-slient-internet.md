@@ -1,7 +1,6 @@
 ﻿---
 title:  "Включить тишину в интернете"
 date: 2015-10-28 11:35:00 -0000
-categories: lifehack minimalism
 tags: lifehack minimalism
 ---
 

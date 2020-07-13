@@ -1,7 +1,6 @@
 ---
 title:  "Прочитал пару новых книг \"про мозг\""
 date: 2014-09-08 11:35:00 -0000
-categories: minimalism
 tags: minimalism
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Какая площадь должна приходиться на человека в общежитии?"
 date: 2018-08-03 11:54:00 -0000
-categories: Construction code
 tags: legislation
 ---
 

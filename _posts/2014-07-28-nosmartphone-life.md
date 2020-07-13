@@ -1,7 +1,6 @@
 ---
 title:  "Жизнь без смартфона в кармане"
 date: 2014-07-28 09:30:00 -0000
-categories: minimalism
 tags: minimalism
 ---
 

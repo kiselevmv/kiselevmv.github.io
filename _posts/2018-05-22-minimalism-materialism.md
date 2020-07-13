@@ -1,7 +1,6 @@
 ---
 title:  "Почему минимализм концентрируется на материальном"
 date: 2018-05-22 00:00:00 -0000
-categories: minimalism
 tags: minimalism
 ---
 

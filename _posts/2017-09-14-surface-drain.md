@@ -1,7 +1,6 @@
 ---
 title:  "Учёт поверхностного стока на период строительства"
 date: 2017-09-14 15:17:00 -0000
-categories: environment
 tags: environment
 ---
 

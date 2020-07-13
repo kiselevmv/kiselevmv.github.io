@@ -1,7 +1,6 @@
 ---
 title:  "Учебник языка Форт со средой программирования"
 date: 2020-06-25 21:22:00 -0000
-categories: Forth programming
 tags: Forth programming
 ---
 

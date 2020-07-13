@@ -1,7 +1,6 @@
 ---
 title:  "Телефонные проблемы"
 date: 2013-08-02 14:26:00 -0000
-categories: GTD
 tags: GTD
 ---
 

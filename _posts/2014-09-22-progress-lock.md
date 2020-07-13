@@ -1,7 +1,6 @@
 ---
 title: "О застрявших на путях прогресса"
 date: 2014-09-22 13:20:00 -0000
-categories: self-development
 tags: self-development
 ---
 

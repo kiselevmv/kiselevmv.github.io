@@ -1,7 +1,6 @@
 ---
 title:  "Сложности с применением природоохранного оборудования"
 date: 2010-10-25 21:12:00 -0000
-categories: waste environment
 tags: waste environment
 ---
 

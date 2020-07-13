@@ -1,7 +1,6 @@
 ---
 title: "Сервисная клавиатура Diebold"
 date: 2019-07-16 10:38:00 -0000
-categories: survey
 tags: survey engineering
 ---
 

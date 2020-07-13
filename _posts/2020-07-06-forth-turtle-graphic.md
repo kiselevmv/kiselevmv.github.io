@@ -1,7 +1,6 @@
 ---
 title:  "Черепашья графика на Forth"
 date: 2020-07-06 20:05:00 -0000
-categories: Forth graphics
 tags: Forth graphics
 ---
 

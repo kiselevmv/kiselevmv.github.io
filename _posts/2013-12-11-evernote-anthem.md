@@ -1,7 +1,6 @@
 ---
 title:  "Что для меня Evernote"
 date: 2013-12-11 20:04:00 -0000
-categories: software
 tags: software
 ---
 

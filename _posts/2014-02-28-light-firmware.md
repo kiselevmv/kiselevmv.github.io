@@ -1,7 +1,6 @@
 ---
 title:  "Прошивка VIVEKROM для Galaxy Note 8.0 N5100"
 date: 2014-02-28 00:42:00 -0000
-categories: mobile hardware
 tags: hardware
 ---
 

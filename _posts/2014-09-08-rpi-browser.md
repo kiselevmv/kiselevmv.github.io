@@ -1,7 +1,6 @@
 ---
 title:  "Нормальный броузер для Raspberry Pi"
 date: 2014-09-08 10:45:00 -0000
-categories: software
 tags: Raspberry 
 ---
 

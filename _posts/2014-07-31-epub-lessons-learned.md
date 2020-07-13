@@ -1,7 +1,6 @@
 ---
 title:  "Усвоенные уроки от подготовки книги в формате epub"
 date: 2014-07-31 11:27:00 -0000
-categories: lessons manual
 tags: lessons
 ---
 
