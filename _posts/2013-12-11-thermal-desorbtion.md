@@ -213,7 +213,7 @@ tags: Environment
 
 # Приложения
 
-<table border=0 cellpadding=0 cellspacing=0>
+<table>
 <caption>Таблица 1. Испарение углеводородов с паром и без</caption>
 <thead>
 <tr>

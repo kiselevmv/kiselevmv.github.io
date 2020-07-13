@@ -1,7 +1,7 @@
 ---
 title:  "Настройка MathJax на GitHub Pages"
 date: 2020-07-01 19:02:00 -0000
-categories: hosting blogging
+tags: hosting blogging
 ---
 
 По началу казалось, что [MathJax](https://www.mathjax.org/) будет работать на GitHub Pages "из коробки". Такое впечатление создалось у меня из-за раздела [Configuring Jekyll in your GitHub Pages site](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#configuring-jekyll-in-your-github-pages-site) в руководстве по GitHub Pages. Руководство обещает, что некоторые настройки движка Jekyll нельзя изменить на GitHub Pages. И одна из настроек - как раз 'math_engine: mathjax'. Но рано было радоваться, на первой же странице с разметкой MathJax вся разметка "поплыла", ни одна формула не отобразилась. Пришлось читать документацию.
