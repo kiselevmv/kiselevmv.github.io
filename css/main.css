@@ -4,7 +4,9 @@ body {
 }
 
 .container {
-    font: 14pt 'Serif'; 
+    font: 14pt 'Serif';
+    text-indent: 20px;
+    text-align: justify;
 }
 
 nav ul, footer ul {
