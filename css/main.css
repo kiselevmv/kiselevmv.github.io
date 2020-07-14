@@ -24,3 +24,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+table {
+  border-collapse: collapse;
+}
