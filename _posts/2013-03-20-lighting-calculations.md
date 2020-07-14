@@ -44,8 +44,9 @@ N - количество светильников в помещении
 
 ## Приложение 1.
 
-<table style="border:1px solid black;">
-    <tr>
+
+<table style="border:1px solid black;border-collapse:collapse;">
+    <tr style="border:1px solid red;>
         <td rowspan="2">Расчётная высота подвеса светильника, h<sub>расч</sub>, м</td>
         <td rowspan="2">Площадь S, м<sup>2</sup></td>
         <td colspan="4">Удельная мощность (Вт/м<sup>2</sup>) для седьмой группы светильников с лампами типов &rho;<sub>п</sub>) = 70%; &rho;<sub>c</sub> = 50%; &rho;<sub>рнсч</sub> = 10%; K<sub>зап</sub> = 1,5; z = 1,1)</td>
