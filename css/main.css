@@ -9,6 +9,7 @@ body {
     text-align: justify;
 }
 
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -30,6 +31,7 @@ a:hover {
 th {
   background-color: #4CAF50;
   color: white;
+  text-align: center;
 }
 
 th, td {
