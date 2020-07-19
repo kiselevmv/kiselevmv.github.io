@@ -2,6 +2,7 @@
 title:  "Перевод блога на Jekyll"
 date: 2020-07-07 19:42:00 -0000
 tags: blogging Jekyll
+comments: true
 ---
 
 *[CDN]: Content delivery network

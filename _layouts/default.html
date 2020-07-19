@@ -25,7 +25,9 @@
 			
 			</div><!-- /.container -->
 			<footer>
+			{% if page.comments == "true" %}
 			{%- include disqus.html -%}
+			{% endif %}
 	    		<ul>
 	        		<li><a href="mailto:mihail.kiselev@gmail.com">email</a></li>
 	        		<li><a href="https://mnlist.ru">mnlist.ru</a></li>

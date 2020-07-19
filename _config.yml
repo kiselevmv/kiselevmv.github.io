@@ -7,7 +7,8 @@ title: Блог инженера
 email: mihail.kiselev@gmail.com
 author: Mikhail Kiselev
 description: Блог о минимализме, инжинерии и программировании.
-twitter_username: sefard
+twitter: sefard
+email: mihail.kiselev@gmail.com
 subscribe_rss: /atom.xml
 kramdown:
   math_engine: mathjax
