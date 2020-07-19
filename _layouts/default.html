@@ -25,7 +25,7 @@
 			
 			</div><!-- /.container -->
 			<footer>
-			{% if page.comments == "true" %}
+			{% if page.comments contains "true" %}
 			{%- include disqus.html -%}
 			{% endif %}
 	    		<ul>
