@@ -125,6 +125,20 @@ nav {
   background-color: #DFDFDF;
 }
 
+nav p {
+  font-family: 'Oswald', sans-serif;
+  font-weight:500;
+  text-transform:uppercase;
+  text-decoration:none;
+  color:#16151b;
+  margin:0 15px;
+  font-size:16px;
+  letter-spacing:1px;
+  position:relative;
+  display:inline-block;
+  text-align: left;
+}
+
 nav a {
   font-family: 'Oswald', sans-serif;
   font-weight:500;

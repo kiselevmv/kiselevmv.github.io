@@ -21,12 +21,12 @@ nav li {
   border-bottom: 1px solid #888;
 }
 
-nav ul {
+footer nav ul {
   list-style: none;
   padding: 0px;
 }
 
-nav li {
+footer nav li {
   line-height: 40px;
   height: 40px;
   border-bottom: 1px solid #888;
