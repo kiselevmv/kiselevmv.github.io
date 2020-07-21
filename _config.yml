@@ -10,6 +10,7 @@ description: Блог о минимализме, инжинерии и прог�
 twitter: sefard
 email: mihail.kiselev@gmail.com
 subscribe_rss: /atom.xml
+permalink: /blog/:year/:title
 kramdown:
   math_engine: mathjax
 plugins:
