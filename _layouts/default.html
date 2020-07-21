@@ -22,14 +22,17 @@
 
    		<p>{{ site.description | default: site.github.project_tagline }}</p>
 
-		<nav>
+		<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+		<h3 class="menu-toggle">Menu</h3>
+		<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
     		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+        		<li class="home"><a href="/">Home</a></li>
+	        	<li class="about"><a href="/about">About</a></li>
+        		<li class="cv"><a href="/cv">CV</a></li>
+        		<li class="blog"><a class="active" href="/blog">Blog</a></li>
     		</ul>
 		</nav>
+
    		</header>
 			
 		<div class="content">

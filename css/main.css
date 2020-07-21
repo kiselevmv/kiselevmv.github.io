@@ -110,8 +110,16 @@ sub {
   margin:0 auto; 
 }
 
+/**
+ * Navigation
+ * -----------
+ */
+
 nav {
-  background-color: #333;
+  background-color: #DFDFDF;
+  margin: 0 auto;
+  max-width: 1600px;
+  width: 100%;
   overflow: hidden;
 }
 
@@ -258,6 +266,7 @@ header {
 /*  width:270px; */
 /*  float:left; */
   margin-right:30px;
+  margin-bottom:60px;
   -webkit-font-smoothing:subpixel-antialiased;
 } 
 
