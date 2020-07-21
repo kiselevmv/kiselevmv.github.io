@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Истоки минимализма"
 date: 2019-05-16 14:37:00 -0000
 tags: minimalism

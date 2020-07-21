@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Читаем сводобно - 2"
 date: 2019-06-29 12:45:00 -0000
 tags: lifehack

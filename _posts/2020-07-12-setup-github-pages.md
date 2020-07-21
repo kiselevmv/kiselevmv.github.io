@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Настройка сайта на Github Pages"
 date: 2020-07-12 21:06:00 -0000
 tags: lifehack

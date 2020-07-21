@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Делаем компьютер-клавиатуру"
 date: 2019-08-05 11:59:00 -0000
 tags: DIY retro

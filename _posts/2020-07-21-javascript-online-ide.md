@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Онлайн IDE для JavaScript"
 date: 2020-07-21 09:37:00 -0000
 tags: programming JavaScript

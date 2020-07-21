@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Настройка MathJax на GitHub Pages"
 date: 2020-07-01 19:02:00 -0000
 tags: hosting blogging

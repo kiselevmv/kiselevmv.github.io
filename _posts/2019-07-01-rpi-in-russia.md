@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Проблемы с покупкой Raspberry Pi в России"
 date: 2019-07-01 11:23:00 -0000
 tags: DIY

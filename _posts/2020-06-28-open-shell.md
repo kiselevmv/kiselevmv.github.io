@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "OpenShell - замена кнопке пуск"
 date: 2020-06-28 15:44:00 -0000
 tags: lifehack

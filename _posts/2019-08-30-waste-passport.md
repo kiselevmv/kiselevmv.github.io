@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Оформление паспорта отхода"
 date: 2019-08-30 17:55:00 -0000
 tags: Environment

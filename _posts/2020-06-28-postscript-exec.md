@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Где исполнять программы Postscript"
 date: 2020-06-28 19:24:00 -0000
 tags: Postscript programming

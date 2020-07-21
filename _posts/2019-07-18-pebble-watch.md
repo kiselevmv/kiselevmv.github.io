@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Покупка часов Pebble"
 date: 2019-07-18 17:48:00 -0000
 tags: gadgets

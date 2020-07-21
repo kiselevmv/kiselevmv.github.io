@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Трюки с Evernote"
 date: 2020-07-07 20:36:00 -0000
 tags: evernote

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Пример функционального программирования"
 date: 2019-03-14 10:28:00 -0000
 tags: programming junctional LISP

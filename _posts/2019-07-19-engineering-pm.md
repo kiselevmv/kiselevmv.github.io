@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Управление инженерными проектами"
 date: 2019-07-19 10:51:00 -0000
 tags: engineering PM

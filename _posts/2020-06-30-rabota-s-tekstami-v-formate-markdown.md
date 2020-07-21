@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Работа с текстами в формате Markdown"
 date: 2020-06-30 10:25:00 -0000
 tags: blogging markdown

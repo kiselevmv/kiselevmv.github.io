@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Удаление ненужных программ с гаджетов"
 date: 2020-01-08 20:40:00 -0000
 tags: gadgets minimalism

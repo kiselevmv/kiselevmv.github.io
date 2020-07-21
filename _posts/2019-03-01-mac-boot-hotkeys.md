@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "О горячих клавишах при загрузке Macbook"
 date: 2019-03-01 10:17:00 -0000
 tags: macOS manual

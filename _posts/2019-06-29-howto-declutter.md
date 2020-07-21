@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Умение выбрасывать"
 date: 2019-06-29 13:34:00 -0000
 tags: minimalism

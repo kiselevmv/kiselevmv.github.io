@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "MathJax на Postach"
 date: 2019-03-19 15:06:00 -0000
 tags: MathJax

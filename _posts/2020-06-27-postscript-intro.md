@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Краткий курс языка программирования PostScript"
 date: 2020-06-27 20:17:00 -0000
 tags: programming Postscript

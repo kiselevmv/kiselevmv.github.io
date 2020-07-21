@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Перевод piping spool"
 date: 2019-09-17 11:27:00 -0000
 tags: engineering English

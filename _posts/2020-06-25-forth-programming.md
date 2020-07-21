@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Учебник языка Форт со средой программирования"
 date: 2020-06-25 21:22:00 -0000
 tags: Forth programming

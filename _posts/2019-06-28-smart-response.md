@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Клавиатурный КПК из Smartresponder XE"
 date: 2019-06-28 16:09:00 -0000
 tags: DIY
