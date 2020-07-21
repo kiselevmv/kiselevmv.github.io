@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Экран для micro:bit"
 date: 2019-01-02 23:24:00 -0000
 tags: DIY microbit

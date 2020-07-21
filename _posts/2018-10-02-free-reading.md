@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Читаем свободно"
 date: 2018-10-02 17:13:00 -0000
 tags: reading
