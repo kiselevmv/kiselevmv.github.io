@@ -14,34 +14,31 @@
 		{%- include yandex-metric.html -%}
 	</head>
 	<body>
-		<div class="wrapper">
-    		<!-- <header>  -->
-       		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-            {% if site.logo %}
-       		<img src="{{site.logo | relative_url}}" alt="Logo" />
-       		{% endif %}
+   		<header>
+   		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% if site.logo %}
+	   		<img src="{{site.logo | relative_url}}" alt="Logo" />
+    	{% endif %}
 
-       		<p>{{ site.description | default: site.github.project_tagline }}</p>
+   		<p>{{ site.description | default: site.github.project_tagline }}</p>
 
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-      		<!-- </header> -->
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+   		</header>
 		</div>
-      	<section>
 			
 		<div class="container">
 			
 			{{ content }}
 			
-		</div><!-- /.container -->
-		
-		</section>
+		</div>
+		<!-- /.container -->
 		
 		<footer>
 			<ul>
