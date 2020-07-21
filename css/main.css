@@ -366,10 +366,14 @@ h3, h4, h5, h6 {
   width: 100%;
 }
 #nav ul,
-#nav li {
-  display: block;
+#nav li,
+#footer ul,
+#footer li {
+  display: inline;
+  margin-right: 20px;
 }
-#nav ul {
+#nav ul,
+#footer ul {
   margin: 0;
   padding: 0;
   list-style: none;
