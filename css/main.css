@@ -117,10 +117,9 @@ sub {
  */
 
 nav {
-  width: 100%;
+  width: 70%;
   position: fixed;
   top:50px;
-  left:0px;
   text-align:center;
 }
 
