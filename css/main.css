@@ -1,6 +1,31 @@
+@import "rouge-github";
+
 body {
+    background-color: #fff;
+    padding:50px;
     margin: 60px auto;
     width: 70%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#222;
+    margin:0 0 20px;
+}
+
+h1, h2, h3 {
+    line-height:1.1;
+}
+
+h1 {
+    font-size:28px;
+}
+
+h2 {
+    color:#393939;
+}
+
+h3, h4, h5, h6 {
+    color:#494949;
 }
 
 .container {
@@ -28,16 +53,61 @@ a:hover {
     text-decoration: underline;
 }
 
-th {
-  background-color: #4CAF50;
-  color: white;
-  text-align: center;
+a small {
+    font-size:11px;
+    color:#777;
+    margin-top:-0.3em;
+    display:block;
 }
 
 th, td {
-  border-bottom: 1px solid #ddd;
+  background-color: #4CAF50;
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+  color: white;
+}
+
+th {
+    color:#444;
 }
 
 table {
-  border-collapse: collapse;
+    width:100%;
+    border-collapse: collapse;
+}
+
+dt {
+    color:#444;
+    font-weight:700;
+}
+
+blockquote {
+    border-left:1px solid #e5e5e5;
+    margin:0;
+    padding:0 0 0 20px;
+    font-style:italic;
+}
+
+pre {
+    padding:8px 15px;
+    background: #f8f8f8;
+    border-radius:5px;
+    border:1px solid #e5e5e5;
+    overflow-x: auto;
+}
+
+strong {
+    color:#222;
+    font-weight:700;
+}
+
+section {
+    width:500px;
+    float:right;
+    padding-bottom:50px;
+}
+
+small {
+    font-size:11px;
 }
