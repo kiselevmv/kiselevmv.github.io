@@ -359,6 +359,8 @@ h3, h4, h5, h6 {
 nav {
   top: 166px;
   top: 10.375rem;
+  bottom: 150px;
+  bottom: 8rem;
 }
 nav ul,
 nav li,
