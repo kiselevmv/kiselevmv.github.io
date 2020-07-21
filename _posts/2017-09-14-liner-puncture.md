@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Защита геомембраны от протыкания"
 date: 2017-09-14 22:51:00 -0000
 tags: environment landfill MathJax

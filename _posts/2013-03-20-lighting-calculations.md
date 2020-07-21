@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Расчет количества светильников для проектов"
 date: 2013-03-20 21:55:00 -0000
 tags: engineering MathJax

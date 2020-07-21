@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Зубная щётка Soladay"
 date: 2012-01-31 19:30:00 -0000
 tags: minimalism

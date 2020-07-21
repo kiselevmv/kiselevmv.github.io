@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Ограничения на выброр земельного участка под полигон ТБО"
 date: 2012-08-18 01:44:00 -0000
 tags: waste engineering landfill

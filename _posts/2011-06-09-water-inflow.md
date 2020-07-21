@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Приток воды к картам для размещения отходов"
 date: 2011-06-09 22:03:00 -0000
 tags: landfill environment MathJax

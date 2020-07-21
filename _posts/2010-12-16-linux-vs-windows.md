@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "В тысячный раз - сравнение Linux и Windows"
 date: 2010-12-16 13:53:00 -0000
 tags: Linux

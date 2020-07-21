@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Лёгкий способ рутировать андроид"
 date: 2014-01-27 18:38:00 -0000
 tags: mobile lifehack

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Заметки про язык программирования Forth"
 date: 2015-10-15 15:26:00 -0000
 tags: programming forth

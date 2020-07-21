@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Geek picnik в Москве 25-26 января 2014"
 date: 2014-01-27 19:09:00 -0000
 tags: entertaiment

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Прочитал учебник \"Инженерная геология\""
 date: 2011-05-31 19:57:00 -0000
 tags: book engineering

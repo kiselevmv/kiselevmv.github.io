@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Упрощенная модель солнечного нагрева поверхностей"
 date: 2014-04-24 13:51:00 -0000
 tags: engineering MathJax

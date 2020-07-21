@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Ускорение зависимости"
 date: 2016-09-30 18:02:00 -0000
 tags: translation minimalism

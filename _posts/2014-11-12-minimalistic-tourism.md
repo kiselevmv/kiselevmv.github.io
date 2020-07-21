@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Минималистичный туризм"
 date: 2014-11-12 11:07:00 -0000
 tags: GTD PalmOS

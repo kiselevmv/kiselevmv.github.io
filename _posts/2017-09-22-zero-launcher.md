@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Zero Launcher"
 date: 2017-09-22 23:41:00 -0000
 tags: gadget

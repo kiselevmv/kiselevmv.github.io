@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Коэффициент запаса"
 date: 2010-10-18 14:23:00 -0000
 tags: engineering

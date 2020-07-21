@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Pocket C.H.I.P. и телевизор"
 date: 2017-09-14 15:59:00 -0000
 tags: DIY

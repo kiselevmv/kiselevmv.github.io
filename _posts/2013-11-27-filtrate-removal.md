@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Проектирование систем сбора и удаления фильтрата"
 date: 2013-11-27 20:16:00 -0000
 tags: landfill waste MathJax

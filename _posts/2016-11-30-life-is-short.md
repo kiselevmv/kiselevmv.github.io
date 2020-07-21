@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Жизнь коротка"
 date: 2016-11-30 17:26:00 -0000
 tags: translations minimalism

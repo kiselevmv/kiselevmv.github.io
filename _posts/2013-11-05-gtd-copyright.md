@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Наглое заявление про GTD"
 date: 2013-11-05 02:31:00 -0000
 tags: gtd book

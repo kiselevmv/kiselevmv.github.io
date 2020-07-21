@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Софт дня StopWatch"
 date: 2010-10-18 16:23:00 -0000
 tags: PalmOS GTD

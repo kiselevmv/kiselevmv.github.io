@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Таймер-помидор на micro:bit"
 date: 2016-12-05 14:37:00 -0000
 tags: pomodoro gtd DIY

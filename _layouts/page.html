@@ -6,10 +6,9 @@ layout: default
 
 <p class="view">Автор {{ page.author | default: site.author }}</p>
 
-<div class="content">
+<div class="post">
   {{ content }}
 </div>
-<!-- /.content -->
 
 {% if page.tags %}
   <small>теги: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>

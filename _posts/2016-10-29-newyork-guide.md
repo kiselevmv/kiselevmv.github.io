@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Путеводители по Нью-Йорку"
 date: 2016-10-29 10:21:00 -0000
 tags: survey engineering

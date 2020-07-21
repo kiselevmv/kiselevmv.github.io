@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Очередной нелепый \"убийца Evernote\""
 date: 2016-09-09 09:55:00 -0000
 tags: software

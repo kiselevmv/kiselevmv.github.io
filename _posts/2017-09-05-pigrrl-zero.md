@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Проблемы при сборке PIGRRL Zero"
 date: 2017-09-05 11:55:00 -0000
 tags: DIY

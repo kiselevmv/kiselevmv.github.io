@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "О будущем сайта mnlist.ru"
 date: 2016-12-02 14:56:00 -0000
 tags: blog

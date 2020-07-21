@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Товарищ Артём"
 date: 2016-05-04 09:13:00 -0000
 tags: travel

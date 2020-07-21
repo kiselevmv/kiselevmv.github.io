@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Новый дизайн таймера-помидора на micro:bit"
 date: 2017-01-20 15:55:00 -0000
 tags: DIY pomodoro

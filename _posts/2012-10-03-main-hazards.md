@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Опасные и особо опасные производственные объекты"
 date: 2012-10-03 00:30:00 -0000
 tags: Safety engineering

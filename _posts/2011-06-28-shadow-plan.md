@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "GTD с Shadow Plan"
 date: 2011-06-28 14:34:00 -0000
 tags: gtd Palm

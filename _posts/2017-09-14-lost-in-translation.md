@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Трудности перевода"
 date: 2017-09-14 15:13:00 -0000
 tags: English

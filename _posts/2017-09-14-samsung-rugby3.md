@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Телефон Samsung Rugby 3"
 date: 2017-09-14 15:26:00 -0000
 tags: gadgets

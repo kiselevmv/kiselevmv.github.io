@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Новое в проектировании полигонов отходов"
 date: 2014-12-12 13:51:00 -0000
 tags: engineering MathJax

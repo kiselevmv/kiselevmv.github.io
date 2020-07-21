@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "О застрявших на путях прогресса"
 date: 2014-09-22 13:20:00 -0000
 tags: self-development

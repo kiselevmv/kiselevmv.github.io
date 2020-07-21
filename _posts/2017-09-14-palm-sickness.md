@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Ностальгический пост про Palm"
 date: 2017-09-14 15:02:00 -0000
 tags: PalmOS

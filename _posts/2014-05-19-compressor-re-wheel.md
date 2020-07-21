@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Что такое compressor (pump) re-wheel"
 date: 2014-05-19 16:43:00 -0000
 tags: hardware engineering
