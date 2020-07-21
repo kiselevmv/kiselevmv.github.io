@@ -119,31 +119,9 @@ sub {
 nav {
   width: 70%;
   position: fixed;
-/*  top:50px; */
+  top:0px;
+  /* top:50px; */
   text-align:center;
-}
-
-nav ul {
-  list-style: none;
-  background-color: #DFDFDF;
-  text-align: center;
-  padding: 0;
-  margin: 0;
-}
-
-nav ul {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  list-style: none;
-  font-weight: bold;
-  padding: 0px;
-}
-
-nav li {
-  font-family: 'Helvetica', 'Arial', 'Sans-Serif', sans-serif;
-  font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
-  border-bottom: 1px solid #888;
 }
 
 nav a {
@@ -172,16 +150,6 @@ nav a:hover:before{
   animation:in 0.2s cubic-bezier(1, 0, 0.58, 0.97) 1 both;
 } 
  
-nav a:hover {
-  background-color: #005f5f;
-}
- 
-nav a.active {
-  background-color: #fff;
-  color: #444;
-  cursor: default;
-}
-
 @keyframes in{
   0%{
     width: 0;
@@ -221,36 +189,6 @@ nav a.active {
   nav a:nth-child(#{$i}){
     animation:show .2s #{$i*0.1+1}s ease 1 both;
   }
-}
-
-@media screen and (min-width: 600px) {
-  nav li {
-    width: 120px;
-    border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
-  }
- 
-  /* Option 1 - Display Inline */
-  nav li {
-    display: inline-block;
-    margin-right: -4px;
-  }
- 
-  /* Options 2 - Float
-  nav li {
-    float: left;
-  }
-  .nav ul {
-    overflow: auto;
-    width: 600px;
-    margin: 0 auto;
-  }
-  .nav {
-    background-color: #444;
-  }
-  */
 }
 
 header {
