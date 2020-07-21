@@ -602,19 +602,20 @@ small {
 /* Code/Pre-formatted blocks */
 .content code,
 .content pre {
-  padding: 2px 4px;
-/*  padding: 0.125rem 4px; */
-/*  padding: 2px 0.25rem; */
-/*  padding: 0.125rem 0.25rem; */
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333; 
   display: inline-block;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   text-indent: 0pt;
   border: none;
-  color: #d14;
-  background-color: #f7f7f9;
   word-break: break-all;
   word-wrap: break-word;
   white-space: pre-wrap;
-  line-height: 140%;
 }
 
+.content pre {
+  padding:8px 15px;
+  background: #f8f8f8;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
