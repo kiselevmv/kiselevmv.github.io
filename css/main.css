@@ -356,25 +356,24 @@ h3, h4, h5, h6 {
   text-align: justify;
 }
 
-#nav {
+nav {
   top: 166px;
   top: 10.375rem;
 }
-#nav ul,
-#nav li,
-#nav a {
+nav ul,
+nav li,
+nav a {
   width: 100%;
 }
-#nav ul,
-#nav li,
-#footer ul,
-#footer li {
+nav ul,
+nav li,
+footer ul,
+footer li {
   display: inline;
   margin-right: 20px;
 }
-#nav ul,
-#footer ul {
-  margin: 0;
+nav ul,
+footer ul {
   padding: 0;
   list-style: none;
   font-weight: bold;
