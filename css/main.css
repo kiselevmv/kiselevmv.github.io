@@ -137,6 +137,7 @@ nav p {
   position:relative;
   display:inline-block;
   text-align: left;
+  float:left;
 }
 
 nav a {
