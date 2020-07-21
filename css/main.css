@@ -356,6 +356,9 @@ h3, h4, h5, h6 {
   text-align: justify;
 }
 
+.language-plaintext {
+    text-indent: 0pt;
+}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
