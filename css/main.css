@@ -255,8 +255,8 @@ hr {
 }
 
 header {
-  width:270px;
-  float:left;
+/*  width:270px; */
+/*  float:left; */
   margin-right:30px;
   -webkit-font-smoothing:subpixel-antialiased;
 } 
