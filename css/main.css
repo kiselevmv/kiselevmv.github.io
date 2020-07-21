@@ -188,19 +188,19 @@ nav a.active {
     left:0;
     right:auto;
   }
-  100%{
+  70%{
     left:0;
     right:auto;
-    width: 100%;
+    width: 70%;
   }
 }
 @keyframes out{
   0%{
-    width:100%;
+    width:70%;
     left: auto;
     right: 0;
   }
-  100%{
+  70%{
     width: 0;
     left: auto;
     right: 0;
@@ -211,7 +211,7 @@ nav a.active {
     opacity:0;
     transform:translateY(-10px);
   }
-  100%{
+  70%{
     opacity:1;
     transform:translateY(0);
   }
@@ -319,7 +319,6 @@ strong {
 }
 
 section {
-    width:500px;
     float:right;
     padding-bottom:50px;
 }
