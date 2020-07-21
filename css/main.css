@@ -127,6 +127,7 @@ nav {
 
 nav ul {
   list-style: none;
+  padding: 0px;
 }
 
 nav li {
