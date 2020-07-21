@@ -124,6 +124,10 @@ nav {
   text-align:center;
 }
 
+nav ul {
+  list-style: none;
+}
+
 nav a {
   font-family: 'Oswald', sans-serif;
   font-weight:500;
