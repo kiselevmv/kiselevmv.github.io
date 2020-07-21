@@ -1,0 +1,64 @@
+nav ul {
+  list-style: none;
+  background-color: #DFDFDF;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  list-style: none;
+  font-weight: bold;
+  padding: 0px;
+}
+
+nav li {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0px;
+}
+
+nav li {
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+
+@media screen and (min-width: 600px) {
+  nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+ 
+  /* Option 1 - Display Inline */
+  nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+ 
+  /* Options 2 - Float
+  nav li {
+    float: left;
+  }
+  .nav ul {
+    overflow: auto;
+    width: 600px;
+    margin: 0 auto;
+  }
+  .nav {
+    background-color: #444;
+  }
+  */
+}
