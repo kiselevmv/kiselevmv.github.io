@@ -372,6 +372,8 @@ h3, h4, h5, h6 {
 #nav ul {
   margin: 0;
   padding: 0;
+  list-style: none;
+  font-weight: bold;
 }
 #nav li {
   text-align: center;
@@ -601,9 +603,9 @@ small {
 .content code,
 .content pre {
   padding: 2px 4px;
-  padding: 0.125rem 4px;
-  padding: 2px 0.25rem;
-  padding: 0.125rem 0.25rem;
+/*  padding: 0.125rem 4px; */
+/*  padding: 2px 0.25rem; */
+/*  padding: 0.125rem 0.25rem; */
   display: inline-block;
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   text-indent: 0pt;
