@@ -18,10 +18,10 @@ html {
 }
 
 body {
-    background-color: #DFDFDF;
-    padding:50px;
-    margin: 60px auto;
-    width: 70%;
+  background-color: #DFDFDF;
+  padding:50px;
+  margin: 60px auto;
+  width: 70%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -57,6 +57,7 @@ a {
 a:hover, a:focus {
   color:#069;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 a small {
@@ -70,10 +71,6 @@ a:hover small {
   color:#777;
 } 
 
-
-/**
- * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
- */
 b,
 strong {
   font-weight: bold;
@@ -102,7 +99,10 @@ sub {
   bottom: -0.25em;
 }
 
-
+/**
+ * Content design
+ * -----------
+ */
 
 .content {
   font: 14pt 'Serif';
@@ -208,21 +208,6 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-
-a small {
-    font-size:11px;
-    color:#777;
-    margin-top:-0.3em;
-    display:block;
-}
 
 th, td {
   text-align:left;
