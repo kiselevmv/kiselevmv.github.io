@@ -175,12 +175,12 @@ nav a:hover:before{
   100%{
     left:0;
     right:auto;
-    width: 70%;
+    width: 100%;
   }
 }
 @keyframes out{
   0%{
-    width:70%;
+    width:100%;
     left: auto;
     right: 0;
   }
