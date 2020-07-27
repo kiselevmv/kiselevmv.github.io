@@ -27,4 +27,12 @@ tags: minimalism
 
 Вот хорошая иллюстрация этого принципа
 
-![Минимализма график](http://2nature.me/files/minimalism-graph.png)
+![Минимализма график](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1595838959/blog/minimalism-graph_bjqhai.png)
+
+---
+
+Прочитать ещё по теме "минимализм" можно в публикациях:
+
+- [Почему минимализм концентрируется на материальном](/blog/2018/minimalism-materialism)
+- [Истоки минимализма](/blog/2019/minimalism-origins)
+- [Личный опыт минимализма](/blog/2019/minimalism-personal)
