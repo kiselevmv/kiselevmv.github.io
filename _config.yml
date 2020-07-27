@@ -16,5 +16,7 @@ kramdown:
   math_engine: mathjax
 plugins:
   - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
 paginate: 10          # Posts per page on the blog index
 
