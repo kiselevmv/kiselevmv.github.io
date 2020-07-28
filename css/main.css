@@ -117,14 +117,11 @@ sub {
  */
 
 nav {
-  background-color: #DFDFDF;
-  position:relative;
   width: 70%;
-  padding-top:8px;
-  padding-bottom:8px;
-  top:0;
-  height:56px;
+  position: fixed;
+  top: 6px;
   text-align: center;
+  background-color: #DFDFDF;
 }
 
 nav p {
@@ -151,7 +148,6 @@ nav a {
   margin:0 15px;
   font-size:16px;
   letter-spacing:1px;
-  padding-top:10px
   position:relative;
   display:inline-block;
 }
