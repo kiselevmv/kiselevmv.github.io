@@ -120,13 +120,11 @@ nav {
   background-color: #DFDFDF;
   position:relative;
   width: 70%;
-  z-index:99;
   padding-top:8px;
   padding-bottom:8px;
   top:0;
-  box-sizing:border-box;
   height:56px;
-  box-shadow:0 4px 14px rgba(0,0,0,0.3)  text-align: center;
+  text-align: center;
 }
 
 nav p {
