@@ -14,7 +14,7 @@ comments: true
 	
 Или делаем это любым клиентом для GitHub с графической оболочкой. В папке проекта есть каталог `build/win32/vs2017` с файлом проекта для Visual Studio 2017. Проблема в том, что Pelles C не открывает файлы проекта VS 2017. С другой стороны, это не такая уж и проблема. Код pforth довольно прост. Открываем файл проекта `pforth_main.vcxproj`. Это xml файл, где перечислены файлы проекта:
 
-'''xml
+``` xml
 <ItemGroup>
     <ClCompile Include="..\..\..\csrc\pfcompil.c" />
     <ClCompile Include="..\..\..\csrc\pfcustom.c" />
@@ -55,7 +55,7 @@ comments: true
     <ClInclude Include="..\..\..\csrc\pf_win32.h" />
     <ClInclude Include="..\..\..\csrc\pf_words.h" />
   </ItemGroup>
-'''
+```
 
 ![Create pforth project](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1596013459/blog/pellesc-pforth_cevrlv.png)
 
