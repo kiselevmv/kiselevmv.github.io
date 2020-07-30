@@ -3,6 +3,7 @@ layout: post
 title:  "Минимализм, личный опыт"
 date: 2019-07-31 10:18:00 -0000
 tags: minimalism
+permalink: /post/minimalizm-personal-experience
 ---
 
 Хочу немного написать о том, как выглядит минимализм в реальной жизни. Более того, в российской действительности.
