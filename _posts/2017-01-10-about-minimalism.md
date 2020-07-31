@@ -35,4 +35,4 @@ tags: minimalism
 
 - [Почему минимализм концентрируется на материальном](/blog/2018/minimalism-materialism)
 - [Истоки минимализма](/blog/2019/minimalism-origins)
-- [Личный опыт минимализма](/blog/2019/minimalism-personal)
+- [Личный опыт минимализма](/post/minimalizm-personal-experience)
