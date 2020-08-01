@@ -265,11 +265,39 @@ dt {
 }
 
 blockquote {
-    border-left:1px solid #e5e5e5;
-    margin:0;
-    padding:0 0 0 20px;
+    background:#f7f7f7;
+    border-left:1px solid #bbb;
+    margin:1.5em 10px;
+    padding:0.5em 10px;
     font-style:italic;
-}
+  }
+  
+blockquote > p:first-child{display:inline;}
+
+blockquote:before {
+    color:#bbb;
+    content:"\201C";
+    font-size:3em;
+    line-height:0.1em;
+    margin-right:0.2em;
+    vertical-align:-0.4em;
+  }[dir="rtl"] 
+
+blockquote:before {
+    content:"\201D";
+    margin-left:0.2em;
+    margin-right:0;
+  }
+  
+blockquote:after {
+    color:#bbb;
+    content:"\201D";
+    font-size:3em;
+    line-height:0.1em;
+    vertical-align:-0.45em;
+  }[dir="rtl"] 
+  
+blockquote:after{content:"\201C";}
 
 strong {
     color:#222;
@@ -295,6 +323,8 @@ hr {
   height:1px;
   margin:0 0 20px;
 }
+
+
 
 
 /* Small text for tables */
