@@ -222,10 +222,27 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+table tbody tr th {
+    vertical-align:top;
+  }
+
 table {
-  width:100%;
-  border-collapse: collapse;
+    width:100%;
+    border-collapse: collapse;
+    border:0;
+    border-spacing:0;
+    font-size:0.857em;
+    margin:10px 0;
 }
+
+tr {
+    border-bottom:1px solid #ccc;
+    padding:0.1em 0.6em;
+    background:#efefef;
+    background:rgba(0,0,0,0.063);
+  }
+
+thead > tr{border-bottom:1px solid #000;}
 
 th, td {
   text-align:left;
@@ -235,8 +252,9 @@ th, td {
 }
 
 th {
-  background-color: #4CAF50;
-  color:#444;
+    vertical-align:top;
+    background-color: #4CAF50;
+    color:#444;
 }
 
 
