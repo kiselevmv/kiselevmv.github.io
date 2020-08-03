@@ -4,10 +4,10 @@
 		<meta charset="UTF-8">
 		<title>{{ page.title }}</title>
 		{% if page.description %}
-			<meta name="description" content="{{ page.description }}">
+		<meta name="description" content="{{ page.description }}">
 		{% endif %}
 		{% if page.tags %}
-  			<meta name="keywords" content="{{ page.tags | join: ", " }}">
+  		<meta name="keywords" content="{{ page.tags | join: ", " }}">
 		{% endif %}
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="google-site-verification" content="UH5l1RdMHCFv1llcG8OOSuudxbGe9K8-qrlMOsAGzXM" />
@@ -15,7 +15,7 @@
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		{% if page.tags contains "MathJax" %}
-			{%- include mathjax-head.html -%}
+		{%- include mathjax-head.html -%}
 		{% endif %}
 		{%- include google-analytics.html -%}
 		{%- include yandex-metric.html -%}
@@ -33,7 +33,7 @@
 		</nav>
 		</header>
 
-			{{ content }}
+		{{ content }}
 		
 		<footer>
 			<ul>
@@ -43,7 +43,7 @@
 		</footer>
 		<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 		{% if page.comments %}
-			{% include disqus.html %}
+		{% include disqus.html %}
 		{% endif %}
 	</body>
 </html>
