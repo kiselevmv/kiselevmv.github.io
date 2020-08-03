@@ -3,13 +3,19 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>{{ page.title }}</title>
+		{% if page.description %}
+			<meta name="description" content="{{ page.description }}">
+		{% endif %}
+		{% if page.tags %}
+  			<meta name="keywords" content="{{ page.tags | join: ", " }}">
+		{% endif %}
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="google-site-verification" content="UH5l1RdMHCFv1llcG8OOSuudxbGe9K8-qrlMOsAGzXM" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		{% if page.tags contains "MathJax" %}
-		{%- include mathjax-head.html -%}
+			{%- include mathjax-head.html -%}
 		{% endif %}
 		{%- include google-analytics.html -%}
 		{%- include yandex-metric.html -%}
@@ -26,12 +32,8 @@
     		</ul>
 		</nav>
 		</header>
-			
 
-			
 			{{ content }}
-			
-
 		
 		<footer>
 			<ul>
