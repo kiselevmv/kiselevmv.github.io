@@ -4,6 +4,7 @@ title:  "Эксперементируем с libsdl в Windows"
 date: 2020-07-30 15:19:00 -0000
 tags: programming
 comments: true
+description: "Об успешной попытке собрать Hello World программу с библиотекой SDL в Windows."
 ---
 
 В прошлых публикациях я описывал, как [установить среду разработки Pelles C](/blog/2020/pellesc-portable) без прав администратора и как [скомпилировать pForth для Windows](http://mnlist.ru/blog/2020/pforth-exercise) в Pelles C. Теперь нужно разобраться с программированием с использованием библиотеки libsdl2 в Windows. Для этого есть великолепное и регулярно обновляемое руководство [Beginning Game Programming v2.0](https://lazyfoo.net/tutorials/SDL/index.php). В качестве среды разработки для Windows рассматриваются `Code::blocks`, `Visual Studio 2019`, `Visual Studio.NET 2010 Ultimate` и компилятор MinGW для командной строки. Для `Pelles C` отдельного раздела руководства нет, но разобраться оказалось не так уж и сложно.
