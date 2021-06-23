@@ -2,21 +2,57 @@
 #      Main Configs       #
 # ----------------------- #
 
-theme: jekyll-theme-minimal
 title: Блог инженера
 email: mihail.kiselev@gmail.com
 author: Mikhail Kiselev
 description: Блог о минимализме, инжинерии и программировании.
 twitter: sefard
-email: mihail.kiselev@gmail.com
-subscribe_rss: /atom.xml
-permalink: /blog/:year/:title
-paginate: 15
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mnlist.ru" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics:
+comments: true
+disqus: watery-jekyll
+
+author: Mikhail Kiselev
+author_bio: >-
+  Hey there! 😄 My name is Brennan, I'm a 24-year-old Métis web developer and 
+  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
+  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
+  and I'm looking to help those that need web development work done, or 
+  searching for ideas and management for their next content project.
+author_pic: https://brennanbrown.ca/img/avatar.png
+
+paginate: 4
+paginate_path: "/:num/"
+
+markdown: kramdown
+
 kramdown:
+  input: GFM
+  syntax_highlighter: rouge
   math_engine: mathjax
+
+# Build settings
+theme: null
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
   - jemoji
   - jekyll-sitemap
-paginate: 10          # Posts per page on the blog index
+permalink: /blog/:year/:title
 
+subscribe_rss: /atom.xml
+
+theme_switcher: true
+
+# Allows all pages to be put into `_pages` folder
+# for easier navigation and better SEO.
+collections:
+  pages:
+    output: true
+    permalink: /:title
+
+# Exclude from processing.
+exclude:
+  - ".jekyll-cache"

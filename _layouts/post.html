@@ -1,16 +1,23 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date: "%-d %B %Y" }}</p>
 
-<p class="view">Автор {{ page.author | default: site.author }}</p>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<div class="content">
-  {{ content }}
-</div>
-<!-- /.content -->
+    <header>
+        <h2 itemprop="name headline">{{ page.title | escape }}</h2>
+        {%- include post-data.html -%}
+    </header>
 
-{% if page.tags %}
-  <small>теги: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+    <div itemprop="articleBody">
+        {{ content }}
+    </div>
+
+    {%- include author.html -%}
+
+    {%- if site.disqus.shortname -%}
+        {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
