@@ -19,7 +19,7 @@ author_bio: >-
   Живу в Сибири, работаю на Сахалине, путешествую где придётся. 
   Я предпочитаю пост в блог посту в твиттер. Описание полезной технологии 
   или гаджета описанию заката или посиделок в кафе. 
-author_pic: https://brennanbrown.ca/img/avatar.png
+author_pic: https://res.cloudinary.com/dlqc5rp9l/image/upload/v1624447606/blog/avatar/KMV_nw55ya.jpg
 
 paginate: 12
 paginate_path: "/:num/"
