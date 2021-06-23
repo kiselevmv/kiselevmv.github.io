@@ -9,7 +9,7 @@ description: Блог о минимализме, инжинерии и прог�
 twitter: sefard
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mnlist.ru" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics:
+google_analytics: UA-144558799-1
 comments: true
 disqus: watery-jekyll
 
