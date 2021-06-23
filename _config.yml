@@ -15,14 +15,13 @@ disqus: watery-jekyll
 
 author: Mikhail Kiselev
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 24-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
+  Приветствую в моём блоге! 😄 Меня зовут Михаил. Я инженер и программист. 
+  Живу в Сибири, работаю на Сахалине, путешествую где придётся. 
+  Я предпочитаю пост в блог посту в твиттер. Описание полезной технологии 
+  или гаджета описанию заката или посиделок в кафе. 
 author_pic: https://brennanbrown.ca/img/avatar.png
 
-paginate: 4
+paginate: 12
 paginate_path: "/:num/"
 
 markdown: kramdown
@@ -42,9 +41,9 @@ plugins:
   - jekyll-sitemap
 permalink: /blog/:year/:title
 
-subscribe_rss: /atom.xml
+subscribe_rss: /feed.xml
 
-theme_switcher: true
+theme_switcher: false
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
