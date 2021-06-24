@@ -17,7 +17,7 @@ tags: GTD pomodoro
 
 Чтобы выделить те задачи, которые содержат теги `NA` (Next action - следующее конкретное действие в терминологии GTD) и тег `High` (высокая важность) создадим "Виртуальную папку" в меню `Tools --> Virtual Folder`. Появится такое меню, здесь уже создан нужный фильтр "Сделать срочно". Создаются новые фильтры, естественно, нажатием на кнопку `New`.
 
-![tombo filter](http://2nature.me/files/tombo-filter.png)
+![tombo filter](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1624500681/blog/tombo/tombo_filter_path_sszpi5.png)
 
 Вот диалог, в котором формируется фильтр.
 
