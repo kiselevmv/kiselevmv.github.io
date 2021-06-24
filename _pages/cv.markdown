@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Сurriculum vitae
+title: СV
 permalink: /cv/
 ---
 
