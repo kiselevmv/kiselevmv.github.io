@@ -39,7 +39,7 @@ description: "В этой публикации описаны некоторые
 
 ## Создание заметок - оглавлений
 
-Функция кажется довольно избыточной, но если использовать методику [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/) эта функция очень полезна. О Zettelkasten мне стоит написать подробнее. Здесь не об этом. Чтобы создать заметку - оглавление нужно выбрать несколько заметок с зажатой клавишей `Ctrl`. Evernote предложит очень полезный набор функций.
+Функция кажется довольно избыточной, но если использовать методику [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/) эта функция очень полезна. О Zettelkasten в Evernote я пишу подробнее в заметке о [картотеке Zettelcasten в Evernote](/blog/2021/evernote-zettelkasten). Здесь не об этом. Чтобы создать заметку - оглавление нужно выбрать несколько заметок с зажатой клавишей `Ctrl`. Evernote предложит очень полезный набор функций.
 
 ![Notes merge](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1625049718/blog/notes-merge_p1ppzk.jpg)
 
