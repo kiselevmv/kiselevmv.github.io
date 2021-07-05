@@ -75,3 +75,15 @@ a.skip-main:active {
     font-size: 1.2em;
     z-index: 999;
 }
+
+.alert, .callout {
+    overflow:hidden
+}
+
+.alert-warning {
+    color:#444
+}
+
+.fa-warning:before, .fa-exclamation-triangle:before {
+    content: "\f071"
+}
