@@ -12,8 +12,10 @@ description: "Пост о том, что же такое ромб Wordstar и п
 
 <pre>
         ^E
-     ^S    ^D
-        ^X
+     	|
+   ^S --+-- ^D
+		|
+    	^X
 </pre>
 
 
