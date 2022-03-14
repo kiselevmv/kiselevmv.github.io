@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "О ромбе Wordstar (Wordstar diamond)"
-date: 20:51:00 -0000
+date: 2021-07-16 20:51:00 -0000
 tags: Блог Wordstar клавиатуры
 description: "Пост о том, что же такое ромб Wordstar и почему он может пригодится современному пользователю."
 ---
