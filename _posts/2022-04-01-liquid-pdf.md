@@ -14,7 +14,7 @@ description: "Новый режим чтения pdf файлов на моби�
 
 Но недавно всё изменилось. В Acrobat Reader появился режим text reflow который назвали Liquid mode. И этот режим работает почти идеально. Ниже три примера.
 
-![Файл с текстом курса NEBOSH в Acrobat Reader без изменений](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1648951581/blog/pdf_reader/pdf_normal_mode_sksllt.jpg)	 ![Файл с иллюстрированным текстом курса NEBOSH в Acrobat Reader без изменений](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1648951581/blog/pdf_reader/pdf_reader_mode2_wuljcf.jpg)
+![Файл с текстом курса NEBOSH в Acrobat Reader без изменений](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1648951581/blog/pdf_reader/pdf_normal_mode_sksllt.jpg)	 ![Файл с иллюстрированным текстом курса NEBOSH в Acrobat Reader без изменений](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1648951581/blog/pdf_reader/pdf_normal_mode2_udakda.jpg)
 
 Файл с иллюстрированным текстом курса NEBOSH в Acrobat Reader в обычном режиме просмотра. Весь текст отлично отображается, но читать нельзя.
 
