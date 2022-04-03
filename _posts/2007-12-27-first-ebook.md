@@ -6,6 +6,6 @@ tags: blog
 description: "Первая электронная книга опубликована."
 ---
 
-Отсканированную мной книгу "<a href="http://www.infanata.org/science/1146093101-jelementarnye-reakcii-i-mekhanizm.html">Элементарные рекции и механизм пиролиза углеводородов</a>"  выложили в библиотеку <a href="http://www.infanata.org">NataHaus</a>.
+Отсканированную мной книгу «<a href="http://www.infanata.org/science/1146093101-jelementarnye-reakcii-i-mekhanizm.html">Элементарные рекции и механизм пиролиза углеводородов</a>»  выложили в библиотеку <a href="http://www.infanata.org">NataHaus</a>.
 
 В комментариях скептически отозвались о качестве, но я действительно сканировал в Fine Reader. Просто тогда ещё не умел делать электронные книги правильно. 
