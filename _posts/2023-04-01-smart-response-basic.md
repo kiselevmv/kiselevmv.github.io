@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Бейсик для Smartresponder XE"
-date: 2023-04-01 21:44:00 -0000
+date: 2023-03-31 21:44:00 -0000
 tags: DIY Smartresponder blog
 ---
 
