@@ -2,7 +2,7 @@
 layout: post
 title:  "Бейсик для Smartresponder XE"
 date: 2023-04-01 21:44:00 -0000
-tags: DIY Smartresponder
+tags: DIY Smartresponder blog
 ---
 
 Это продолжение статьи [Клавиатурный КПК из Smartresponder XE](../2019/smart-response). Прошло четыре года, два переезда, эмиграция. И вот, я продолжил эксперименты на Smartresponder XE. Прошил [Arduino basic](https://github.com/robinhedwards/ArduinoBASIC) модифицированный для Smartresponder. 
