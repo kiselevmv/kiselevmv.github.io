@@ -2,7 +2,7 @@
 layout: post
 title:  "Минимализм, личный опыт"
 date: 2019-07-31 10:18:00 -0000
-tags: minimalism
+tags: Минимализм
 permalink: /post/minimalizm-personal-experience
 ---
 
