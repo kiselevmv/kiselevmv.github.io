@@ -2,7 +2,7 @@
 layout: post
 title:  "Наглое заявление про GTD"
 date: 2013-11-05 02:31:00 -0000
-tags: gtd book
+tags: gtd Книги
 ---
 
 ![Заявление об авторских правах на GTD](https://res.cloudinary.com/dlqc5rp9l/image/upload/v1595151830/blog/gtd-copyright_djyimv.gif)
