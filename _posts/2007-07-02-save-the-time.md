@@ -2,7 +2,7 @@
 layout: post
 title:  "Как экономить время - Подробно"
 date: 2007-07-02 05:10:00 -0000
-tags: GTD time-management
+tags: GTD Тайм-менеджмент
 ---
 
 [Как экономить время - Подробно](http://ouch.kiev.ua/2005-05-27/126.html)
