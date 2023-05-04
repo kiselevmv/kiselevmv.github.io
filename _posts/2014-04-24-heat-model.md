@@ -52,7 +52,7 @@ A - площадь поверхности, участвующей в конве�
 
 ## Потери тепла излучением
 
-\\[Q_{radiant} = \epsilon \times \sigma \times A \times \left( T^4_h - T^4_{sky} \right) \\]
+\\(Q_{radiant} = \epsilon \times \sigma \times A \times \left( T^4_h - T^4_{sky} \right) \\]
 
 где:
 
