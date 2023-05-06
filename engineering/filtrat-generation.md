@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Расчёт образования фильтрата"
 date: 2016-12-15 20:11:00 -0000
 tags: Environment MathJax
